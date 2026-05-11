@@ -30,7 +30,7 @@ filtered_df = df.copy()
 # You can set the page title and layout here
 st.set_page_config(page_title="HDB Resale Dashboard", layout="wide")
 
-st.title("Singapore HDB Resale Dashboard")
+st.title("Singapore HDB Resale Dashboard v1.0.0")
 
 
 # SIDEBAR
